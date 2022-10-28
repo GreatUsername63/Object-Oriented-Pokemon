@@ -1,0 +1,7 @@
+Nombre,Tipo,Vidas,Fuerzabruta,Descripcion,SayFight,FraseComer
+Pikachu,Electrico,100,25,"Simpatico Pokemon amarillo con poderes superiores y gran popularidad entre los ninios","Peleare hasta mi ultimo aliento","Yummy"
+Squirtle,Agua,50,15,"Su forma redondeada y las hendiduras que tiene le ayudan a reducir su resistencia al agua y le permiten nadar a gran velocidad. Su caparazon lo protege; su forma redondeada y sus hendiduras reducen su resistencia al agua y le permiten nadar mas rapido","Soy un Pokemon muy valiente","Yum!!!"
+Charmander,Fuego,50,25,"Charmander es un pequeno lagarto bipedo. Sus caracteristicas de fuego son resaltadas por su color de piel anaranjado y su cola con la punta envuelta en llamas. Charmander evoluciona a Charmeleon y Charizard. Tiene una pequena llama en la punta de su cola.","Soy pequenio pero con gran fuerza Toma!!!","Ñam!"
+Mew,Psiquico,200,10,"Si se observa a traves de un microscopio puede distinguirse cuan corto fino y delicado es el pelaje de este Pokemon.","...?","yamyamyamyamyamyamyam"
+Un vato cualquiera con un sarten, Normal,5,200,"Este no es un Pokemon. Es un vato con una sarten.","Awe mira un pokemon!","Lonchesito."
+Sheldon, Psiquico, 100, 15,"Este tampoco es un Pokemon. Es mi gato.","MEOOOOOOWWWWWWWWW","miau."
